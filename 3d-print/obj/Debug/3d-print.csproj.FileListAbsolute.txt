@@ -1,0 +1,236 @@
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\3d-print.dll.config
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\3d-print.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\3d-print.pdb
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csc.exe
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csc.exe.config
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csc.rsp
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csi.exe
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csi.exe.config
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\csi.rsp
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.AppContext.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Console.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Net.Http.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\vbc.exe
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\vbc.exe.config
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\vbc.rsp
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\obj\Debug\3d-print.csproj.AssemblyReference.cache
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\obj\Debug\3d-print.csproj.CoreCompileInputs.cache
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\obj\Debug\3d-print.csproj.CopyComplete
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\obj\Debug\3d-print.dll
+C:\Users\Kavinda Udara\source\repos\3d-print\3d-print\obj\Debug\3d-print.pdb
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\3d-print.dll.config
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\3d-print.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\3d-print.pdb
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csc.exe
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csc.exe.config
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csc.rsp
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csi.exe
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csi.exe.config
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\csi.rsp
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.AppContext.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Console.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Net.Http.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\vbc.exe
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\vbc.exe.config
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\vbc.rsp
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\obj\Debug\3d-print.csproj.AssemblyReference.cache
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\obj\Debug\3d-print.csproj.CoreCompileInputs.cache
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\obj\Debug\3d-print.csproj.CopyComplete
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\obj\Debug\3d-print.dll
+C:\Users\Hiran welagedara\Downloads\3d-print-20230507T030615Z-001\3d-print\3d-print\obj\Debug\3d-print.pdb
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\3d-print.dll.config
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\3d-print.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\3d-print.pdb
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csc.exe
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csc.exe.config
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csc.rsp
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csi.exe
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csi.exe.config
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\csi.rsp
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.AppContext.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Console.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Net.Http.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\vbc.exe
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\vbc.exe.config
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\vbc.rsp
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\obj\Debug\3d-print.csproj.AssemblyReference.cache
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\obj\Debug\3d-print.csproj.CoreCompileInputs.cache
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\obj\Debug\3d-print.csproj.CopyComplete
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\obj\Debug\3d-print.dll
+C:\Users\Kavinda Udara\Downloads\New folder\3d-print\obj\Debug\3d-print.pdb
+G:\SA\3d-print\bin\3d-print.dll.config
+G:\SA\3d-print\bin\3d-print.dll
+G:\SA\3d-print\bin\3d-print.pdb
+G:\SA\3d-print\bin\roslyn\csc.exe
+G:\SA\3d-print\bin\roslyn\csc.exe.config
+G:\SA\3d-print\bin\roslyn\csc.rsp
+G:\SA\3d-print\bin\roslyn\csi.exe
+G:\SA\3d-print\bin\roslyn\csi.exe.config
+G:\SA\3d-print\bin\roslyn\csi.rsp
+G:\SA\3d-print\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SA\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SA\3d-print\bin\roslyn\Microsoft.Managed.Core.targets
+G:\SA\3d-print\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SA\3d-print\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\SA\3d-print\bin\roslyn\System.AppContext.dll
+G:\SA\3d-print\bin\roslyn\System.Collections.Immutable.dll
+G:\SA\3d-print\bin\roslyn\System.Console.dll
+G:\SA\3d-print\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\SA\3d-print\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\SA\3d-print\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SA\3d-print\bin\roslyn\System.Globalization.Calendars.dll
+G:\SA\3d-print\bin\roslyn\System.IO.Compression.dll
+G:\SA\3d-print\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\SA\3d-print\bin\roslyn\System.IO.FileSystem.dll
+G:\SA\3d-print\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SA\3d-print\bin\roslyn\System.Net.Http.dll
+G:\SA\3d-print\bin\roslyn\System.Net.Sockets.dll
+G:\SA\3d-print\bin\roslyn\System.Reflection.Metadata.dll
+G:\SA\3d-print\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\SA\3d-print\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\SA\3d-print\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\SA\3d-print\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\SA\3d-print\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\SA\3d-print\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\SA\3d-print\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\SA\3d-print\bin\roslyn\System.ValueTuple.dll
+G:\SA\3d-print\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\SA\3d-print\bin\roslyn\System.Xml.XmlDocument.dll
+G:\SA\3d-print\bin\roslyn\System.Xml.XPath.dll
+G:\SA\3d-print\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\SA\3d-print\bin\roslyn\vbc.exe
+G:\SA\3d-print\bin\roslyn\vbc.exe.config
+G:\SA\3d-print\bin\roslyn\vbc.rsp
+G:\SA\3d-print\bin\roslyn\VBCSCompiler.exe
+G:\SA\3d-print\bin\roslyn\VBCSCompiler.exe.config
+G:\SA\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SA\3d-print\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SA\3d-print\obj\Debug\3d-print.csproj.AssemblyReference.cache
+G:\SA\3d-print\obj\Debug\3d-print.csproj.CoreCompileInputs.cache
+G:\SA\3d-print\obj\Debug\3d-print.csproj.CopyComplete
+G:\SA\3d-print\obj\Debug\3d-print.dll
+G:\SA\3d-print\obj\Debug\3d-print.pdb
